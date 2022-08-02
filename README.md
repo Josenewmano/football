@@ -8,4 +8,4 @@ The system shall return printed in the console a results table for each league. 
 
 The UML diagram is here: 
 
-[UML Diagram](UML.png)
+![UML Diagram](UML.png)
