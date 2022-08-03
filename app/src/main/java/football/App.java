@@ -5,7 +5,6 @@ package football;
 
 public class App {
     
-
     public static void main(String[] args) {
         Card red = new Card("Ronaldo", 1, "Red", "Man Utd");
         Card yellow = new Card("Maguire", 25, "Yellow", "Man Utd");
